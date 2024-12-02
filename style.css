@@ -42,7 +42,8 @@ body{
 
 h1{
     font-size: 3rem;
-    font-size: 75px;
+    font-size: 65px;
+    Margin: 30px;
 }
 
 p{
@@ -87,5 +88,5 @@ figcaption{
 
 footer{
     font-size: 1.5rem;
-    font-size: 5px;
+    font-size: 20px;
 }
